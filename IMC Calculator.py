@@ -25,4 +25,4 @@ while True:
             print(f'{nome}, seu IMC é {imc:.1f}, você está {resultado_imc}')
 
         except ValueError:
-            print(f"Algo deu errado, tente novamente! (Use '.' ao invés de ',')")
+            print(f"Algo deu errado, tente novamente! (Use '.' ao invés de ',')") 
